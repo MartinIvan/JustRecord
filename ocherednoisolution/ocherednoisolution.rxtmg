@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ocherednoisolution"
+      id="6f4982a7-c9ae-458d-adda-cfbaf778f3c9"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ocherednoisolution"
+      id="6f4982a7-c9ae-458d-adda-cfbaf778f3c9"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
